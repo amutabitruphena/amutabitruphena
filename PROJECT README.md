@@ -1,10 +1,7 @@
 - Program Name.Compassion Int-Stand up program
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- Author Name:Truphena Khavele
 <!---
-amutabitruphena/amutabitruphena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Description:A readme file provides information about a data file and is intended to help ensure that the data can be correctly interpreted, by yourself at a later date or by others when sharing or publishing data.
 --->
+-project set up instructions:It Should have a tittle,table of contents,how to install,how to run the project,include credits add lisence and badges
+Link to live site on github pages:
